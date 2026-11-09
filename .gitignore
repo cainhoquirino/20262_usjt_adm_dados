@@ -1,0 +1,9 @@
+.venv
+.vscode
+dados/
+saidas/
+__pycache__/
+# Provas e listas de presença (repositório público; contêm dados de alunos)
+provas/
+lista_de_presenca/
+provas_realizadas_pelos_alunos/

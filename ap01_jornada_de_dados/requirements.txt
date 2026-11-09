@@ -1,0 +1,4 @@
+pandas>=3
+pyarrow>=21.0
+duckdb>=1.4
+matplotlib>=3.10
